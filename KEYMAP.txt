@@ -1,0 +1,41 @@
+POLISH PROGRAMMER + FRENCH ACCENTS — KEYMAP
+
+Type keys in sequence. Example: \a means press \, then a.
+Polish AltGr letters work as in the standard Polish Programmer layout.
+
+GRAVE ACCENT  (\)
+\a -> à      \A -> À
+\e -> è      \E -> È
+\u -> ù      \U -> Ù
+
+ACUTE ACCENT  (/)
+/e -> é      /E -> É
+
+CIRCUMFLEX  (^, Shift+6)
+^a -> â      ^A -> Â
+^e -> ê      ^E -> Ê
+^i -> î      ^I -> Î
+^o -> ô      ^O -> Ô
+^u -> û      ^U -> Û
+
+DIAERESIS  (:, Shift+;)
+:a -> ä      :A -> Ä
+:e -> ë      :E -> Ë
+:i -> ï      :I -> Ï
+:u -> ü      :U -> Ü
+:y -> ÿ      :Y -> Ÿ
+
+OTHER CHARACTERS  (;)
+;c -> ç      ;C -> Ç
+;e -> œ      ;E -> Œ
+;< -> «      ;> -> »
+;' -> ’      ;- -> –
+;= -> U+00A0 (non-breaking space)
+
+TYPE A PREFIX CHARACTER ITSELF
+\\ -> \       // -> /
+^^ -> ^       :: -> :       ;; -> ;
+You can also press Space after a dead key to type that prefix character.
+
+To type ;<: press ;, then hold Shift and press the comma key (,).
+To type ;>: press ;, then hold Shift and press the period key (.).
